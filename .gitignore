@@ -1,3 +1,7 @@
+#IDE
+/.idea
+/.vscode
+
 *.rbc
 capybara-*.html
 .rspec
